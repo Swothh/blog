@@ -1,6 +1,6 @@
 ---
 title: 'Two Forms of Pre-rendering'
-image: 'https://cdn.discordapp.com/avatars/770299344250339349/7c45593d9c36e68b182d14dfc2bd53c9.webp?size=4096'
+image: 'https://i.ibb.co/2WdcqRJ/image.png'
 tags: 'test, a, b'
 date: '2020-01-01'
 ---
